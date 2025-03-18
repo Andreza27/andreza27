@@ -1,7 +1,11 @@
 Olá  👋
 
-Sou a Andreza estou inicializando uma transição de carreira, para me tornar uam DEV Front-end.<br>
-atualmente estou realizando Projetos utilizando:
+Olá, sou a Andreza!<br>
+Estou em transição de carreira para a área de desenvolvimento Front-end,<br>
+com foco em aprimorar minhas habilidades e construir soluções modernas e eficientes.<br>
+Atualmente, estou desenvolvendo projetos utilizando as seguintes tecnologias:
+<br>
+<br>
 
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=" html"/> 
