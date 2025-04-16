@@ -1,6 +1,6 @@
 Olá  👋
 
-🌟 Olá! Sou a Andreza — desenvolvedora em transição de carreira com foco em Front-End e apaixonada por aprendizado contínuo.
+🌟 Sou a Andreza — desenvolvedora em transição de carreira com foco em Front-End e apaixonada por aprendizado contínuo.
 💼 Com 8 anos de experiência no atendimento ao público, aprendi a escutar com atenção, entender necessidades, lidar com sugestões e resolver problemas de forma prática e empática. Desenvolvi também uma comunicação clara e objetiva — habilidades que hoje aplico no universo da tecnologia.
 💻 Atualmente, estudo no DevClub, onde me aprofundo em HTML, CSS, JavaScript, React, Node.js e TypeScript, criando interfaces modernas, responsivas e centradas no usuário.
 🚀 Busco oportunidades para crescer, colaborar e transformar ideias em experiências digitais que façam a diferença.<br>
